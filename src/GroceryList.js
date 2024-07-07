@@ -43,7 +43,7 @@ export default function GroceryList() {
     };
 
     return (
-        <section className='w-[1170px] h-[67px] mx-auto py-5'>
+        <section className='w-[1170px] mx-auto py-5'>
             <div className='flex gap-5 justify-center items-center'>
                 <h1 className="font-bold text-xl mb-2">HEALTHY GROCERY LIST</h1>
                 <select
